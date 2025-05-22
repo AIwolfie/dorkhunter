@@ -118,16 +118,7 @@ pip install googlesearch-python duckduckgo-search
 
 ## 🙌 Credits
 
-* Built by [Your Name or Handle](https://github.com/AIwolfie)
+* Built by [AIwolfie](https://github.com/AIwolfie)
 * Inspired by the need for a quick CLI dork searcher for bug bounty and OSINT work.
-
-
----
-
-## 📜 License
-
-MIT License. See [`LICENSE`](LICENSE) file for details.
-
-```
 
 
