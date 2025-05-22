@@ -1,6 +1,4 @@
-Here's a **detailed `README.md`** file for your tool **DorkHunter**:
 
----
 
 # 🔎 DorkHunter
 
